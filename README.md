@@ -29,7 +29,7 @@ Python, Jave, C/CPP.
 - Generally it will reduce the rate of insecurity in Nigeria.
 
 # Top-level directory layout
-  .
+      .
       ├── data                    # Data across the city
       ├── public                  # Compiled files (alternatively `dist`)
       ├── src                     # Source files (alternatively `lib` or `app`)
