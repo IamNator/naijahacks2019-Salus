@@ -15,7 +15,7 @@ Several cases of kidnap, assault, robbery and molestation in Nigeria go unreport
 
 # Proposed Solution
 
-A system of connected devices that alerts concerned persons when a victim is danger, it also predicts and shows users possible danger zone at different geographical locations and time of the day.
+A system of connected devices that alerts concerned persons when a victim in danger, it also predicts and shows users possible danger zone at different geographical locations and time of the day.
 
 # Proposed Stack
 
